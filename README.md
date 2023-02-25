@@ -6,8 +6,6 @@
 
 # updating from remote
 
-<<<<<<< HEAD
-# demo for conflict updates
-=======
+# demo for conflict update
+
 # another update from remote
->>>>>>> bbcbf2e8548c59f16bf0894a320eafbe705aad75
